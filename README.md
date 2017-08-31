@@ -142,4 +142,12 @@ is very useful in many areas where the money is.) Languages such as
 C# or Java are popular, but they focus too much on object
 oriented programming in my opinion.
 
+## Sections
+
+* [The first section](https://github.com/eryxcc/easycpp/blob/master/01-first-program.md)
+teaches you how to run a program.
+
+* This is a work in progress, and in a very early state. No more
+sections written yet.
+If you agree with the motivations above, contributions are welcome!
  
